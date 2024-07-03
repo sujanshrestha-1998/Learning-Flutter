@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044422992602",
+    "project_id": "privatenotes-sujan",
+    "storage_bucket": "privatenotes-sujan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044422992602:android:b39858bb8ed3a6462d3be3",
+        "android_client_info": {
+          "package_name": "com.sujanshrestha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEi6ih2_witL-KaggG-yXKXdf8U7arGEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
